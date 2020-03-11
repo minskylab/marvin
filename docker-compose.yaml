@@ -15,5 +15,6 @@ services:
     links:
       - marvin
     environment:
-      DOMAINS: "fbmarvin.minsky.cc -> http://marvin:8080, marvin.minsky.cc -> http://marvin:4200"
+      DOMAINS: "fb-marvin.minsky.cc -> http://marvin:8080, marvin.minsky.cc -> http://marvin:4200"
       STAGE: "production"
+      FORCE_RENEW: "true"
