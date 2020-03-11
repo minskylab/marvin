@@ -17,4 +17,4 @@ services:
     environment:
       DOMAINS: "marvin.minsky.cc -> http://marvin:8080"
       STAGE: "production"
-      FORCE_RENEW: "true"
+      #FORCE_RENEW: "true"
