@@ -1,3 +1,3 @@
 package marvin
 
-type marvin struct {}
+type marvin struct{}

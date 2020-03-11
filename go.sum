@@ -1,4 +1,5 @@
 github.com/DataDog/zstd v1.4.4/go.mod h1:1jcaCB/ufaK+sKp1NBhlGmpz41jOoPQ35bpF36t7BBo=
+github.com/IBM/go-sdk-core v0.4.1 h1:UWZ5jB7xR44AwDF73G5rCECFERCrb86ns5darN092es=
 github.com/IBM/go-sdk-core v0.4.1/go.mod h1:u7wqiIlwK3oRHbanAO4t1kwJUr1EfT2uFySklrUgMmE=
 github.com/Sereal/Sereal v0.0.0-20200210135736-180ff2394e8a/go.mod h1:D0JMgToj/WdxCgd30Kc1UcA9E+WdZoJqeVOuYW7iTBM=
 github.com/appleboy/gin-jwt/v2 v2.6.3 h1:aK4E3DjihWEBUTjEeRnGkA5nUkmwJPL1CPonMa2usRs=
@@ -92,6 +93,7 @@ github.com/ugorji/go v1.1.7/go.mod h1:kZn38zHttfInRq0xu/PH0az30d+z6vm202qpg1oXVM
 github.com/ugorji/go/codec v1.1.7 h1:2SvQaVZ1ouYrrKKwoSk2pzd4A9evlKJb9oTL+OaLUSs=
 github.com/ugorji/go/codec v1.1.7/go.mod h1:Ax+UKWsSmolVDwsd+7N3ZtXu+yMGCf907BLYF3GoBXY=
 github.com/vmihailenco/msgpack v3.3.3+incompatible/go.mod h1:fy3FlTQTDXWkZ7Bh6AcGMlsjHatGryHQYUTf1ShIgkk=
+github.com/watson-developer-cloud/go-sdk v0.10.0 h1:qUCMUQwOm/1w6eU4GZ6pU65OdZfjk79b6Vyxiih2xgg=
 github.com/watson-developer-cloud/go-sdk v0.10.0/go.mod h1:f2M0+zkTcfD8uf7iBc6VfGQfm1w74shLIAmOA7KQLfU=
 github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c/go.mod h1:lB8K/P019DLNhemzwFU4jHLhdvlE6uDZjXFejJXr49I=
 github.com/xdg/stringprep v1.0.0/go.mod h1:Jhud4/sHMO4oL310DaZAKk9ZaJ08SJfe+sJh0HrGL1Y=
