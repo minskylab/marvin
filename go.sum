@@ -64,6 +64,8 @@ github.com/minskylab/neocortex v0.1.0 h1:c+9VQEQxsYFPxQfCzvJUg6m/Bt4d5XtVmMK4YzU
 github.com/minskylab/neocortex v0.1.0/go.mod h1:pB/7mdz2mcgl7XB1c45lPJQuBXYNa8VfceCO1PtU8Pk=
 github.com/minskylab/neocortex v0.1.1 h1:eFAcvqJHwFVlPLymCMhgYftGvckpEcMzvsm+TQ/QqrQ=
 github.com/minskylab/neocortex v0.1.1/go.mod h1:pB/7mdz2mcgl7XB1c45lPJQuBXYNa8VfceCO1PtU8Pk=
+github.com/minskylab/neocortex v0.1.2 h1:Z5gyr9OViU/Hsc0mU+wTpksQXpOWWVYTKH3x8vdi3uw=
+github.com/minskylab/neocortex v0.1.2/go.mod h1:pB/7mdz2mcgl7XB1c45lPJQuBXYNa8VfceCO1PtU8Pk=
 github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421/go.mod h1:6dJC0mAP4ikYIbvyc7fijjWJddQyLn8Ig3JB5CqoB9Q=
 github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd h1:TRLaZ9cD/w8PVh93nsPXa1VrQ6jlwL5oN8l14QlcNfg=
 github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd/go.mod h1:6dJC0mAP4ikYIbvyc7fijjWJddQyLn8Ig3JB5CqoB9Q=
