@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+  marvin:
+    build: .
+  portal:
+    image: steveltn/https-portal
+    ports:
+      - 80:80
+      - 443:443
+    links:
+      - marvin
+    environment:
+      DOMAINS: "marvin.minsky.cc -> http://marvin:8080"
+      STAGE: "production"
