@@ -3,6 +3,10 @@ version: "3"
 services:
   marvin:
     build: .
+    environment:
+      FB_ACCESS_TOKEN: ${FB_ACCESS_TOKEN}
+      FB_VERIFY_SECRET: ${FB_VERIFY_SECRET}
+      FB_PAGE_ID: ${FB_PAGE_ID}
   portal:
     image: steveltn/https-portal
     ports:
@@ -11,5 +15,5 @@ services:
     links:
       - marvin
     environment:
-      DOMAINS: "marvin.minsky.cc -> http://marvin:8080"
+      DOMAINS: "fb-marvin.minsky.cc -> http://marvin:8080, marvin.minsky.cc -> http://marvin:4200"
       STAGE: "production"
